@@ -48,7 +48,7 @@ public class MathUtilityTest {
         Assert.assertEquals(6, MathUtil.getFactorial(3)); //tui mún 3! == 6
         Assert.assertEquals(24, MathUtil.getFactorial(4)); //tui mún 4! == 24
         Assert.assertEquals(120, MathUtil.getFactorial(5)); //tui mún 5! == 120
-        Assert.assertEquals(120, MathUtil.getFactorial(6)); //tui mún 6! == 720
+        Assert.assertEquals(720, MathUtil.getFactorial(6)); //tui mún 6! == 720
         
     }   //hàm giúp so sánh 2 giá trị nào đó có giống nhau hay ko
         //nếu giống nhau -> thảy màu xanh đèn đường - đường thông, code ngon
